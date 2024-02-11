@@ -31,7 +31,7 @@ for this assignment.
 # Task 1:- Understanding the Data
 
 1. Describe the data in hand in your own words.
-2. 
+
 3. Identify and list the Primary Keys and Foreign Keys for this dataset provided to 
 you(In case you don’t find either primary or foreign key, then specially mention 
 this in your answer)
